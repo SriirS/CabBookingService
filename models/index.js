@@ -4,5 +4,8 @@ const Rider = require('./Rider');
 const Trip = require('./Trip');
 
 module.exports = {
-  Cab, Location, Rider, Trip
-}
+  Cab,
+  Location,
+  Rider,
+  Trip,
+};

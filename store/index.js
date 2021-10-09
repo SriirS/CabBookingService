@@ -7,5 +7,5 @@ const ridersManager = require('./ridersManager');
 module.exports = {
   ridersManager,
   TripsManager,
-  cabsManager
+  cabsManager,
 };
